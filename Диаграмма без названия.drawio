@@ -1,20 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T17:32:33.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7bFYs-dpmgfydCsSsc-G" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T17:33:07.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3AcDtmMnTW83DQcyjwQm" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1114" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="RwJ8dCSNpJa1PpcUMGj2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RwJ8dCSNpJa1PpcUMGj2-0" target="RwJ8dCSNpJa1PpcUMGj2-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RwJ8dCSNpJa1PpcUMGj2-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RwJ8dCSNpJa1PpcUMGj2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
